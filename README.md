@@ -1,0 +1,1 @@
+When compiling the code you will need to enter from the keyboard at first the valid syntax(rule) and after the code fragment. The code will print the minimun number of operations required to transform the code fragment into the valid syntax(rule).
